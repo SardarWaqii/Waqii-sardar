@@ -934,7 +934,7 @@ def pilih_super():
 
 	print "  \033[1;93m«---•◈•---Developed By Sardar Waqii--•◈•---»" #Dev:Sardar_Waqii
 
-	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 SpiderMan.py)↩\033[1;97m....'
+	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Waqii sardar.py)↩\033[1;97m....'
 
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 
